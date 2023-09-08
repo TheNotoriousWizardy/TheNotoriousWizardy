@@ -1,5 +1,4 @@
-
-# Welcome to my page!
+# Hello, World!
 `I'm Wizardy, Full-stack web developer from Morocco`
 
 # 💻 Tech Stack:
